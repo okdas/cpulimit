@@ -1,3 +1,4 @@
+# @author : Torden Cho <ioemen@gmail.com>
 CMD_SUDO    :=$(shell which sudo)
 CMD_RM      :=$(shell which rm)
 CC          :=$(shell which gcc)
